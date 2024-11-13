@@ -16,5 +16,5 @@ download_raw_data(url, raw_data_path)
 # Nettoyer les données
 clean_data(raw_data_path, cleaned_data_path)
 
-# Lancer le dashboard (vérifiez que `create_dashboard` est bien une fonction dans `dashboard1.py`)
+# Lancer le dashboard 
 create_dashboard(cleaned_data_path)
